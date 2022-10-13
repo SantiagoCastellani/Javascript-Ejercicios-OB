@@ -6,6 +6,6 @@
 
 - [Ejercicio 3 - Estructuras](/3-Estructuras)
 
-- [Ejercicio 4 - Cadenas de texto](/3-Cadenas%20de%20texto)
+- [Ejercicio 4 - Cadenas de texto](/4-Cadenas%20de%20texto)
 
 
