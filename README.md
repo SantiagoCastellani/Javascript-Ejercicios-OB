@@ -10,4 +10,6 @@
 
 - [Ejercicio 5 - Números](/5-Numeros)
 
+- [Ejercicio 6 - Listas](/6-Listas)
+
 
